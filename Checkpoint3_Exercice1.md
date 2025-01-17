@@ -13,3 +13,4 @@ D'abord un clic droit au niveau du nom du domaine ensuite **new** et **organizat
 
 ![ex1](./images/image03.png)
 
+On fera un clic droit sur kelly,on sélectionne son ancien groupe puis on fait `remove`
