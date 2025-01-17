@@ -25,3 +25,5 @@ Gabriel Guhl est dans la sous-OU Finance.On fait un clic-droit puis `Properties`
 ![ex1](./images/Image06.png)
 
 Clique droit puis `properties`/`account`/`log on to` et on tape `CLIENT01`
+
+## 1.2.3
