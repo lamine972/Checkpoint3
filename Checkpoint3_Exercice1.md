@@ -45,3 +45,7 @@ On nomme la GPO, on fait unclic droit puis `Edit`/`Computer Configuration`/`Poli
 ## 1.3.1
 
 On va d'abord partager les dossiers DossiersIndividuels et DossiersCommuns afin d'obtenir le chemin d'accès (Pour F : \ScrvWin01\ et pour E : \ScrvWin01) que nous utiliserons pour configurer le mappage des GPO
+
+
+![ex1](./images/Image9.png)
+![ex1](./images/Image10.png)
