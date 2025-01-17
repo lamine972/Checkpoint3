@@ -20,3 +20,8 @@ On fera un clic droit sur kelly,on sélectionne son ancien groupe puis on fait `
 ![ex1](./images/Image05.png)
 Gabriel Guhl est dans la sous-OU Finance.On fait un clic-droit puis `Properties`/`Account`/`Logon Hours`.
 
+## 1.2.2
+
+![ex1](./images/Image06.png)
+
+Clique droit puis `properties`/`account`/`log on to` et on tape `CLIENT01`
