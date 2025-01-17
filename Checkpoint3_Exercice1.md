@@ -11,5 +11,5 @@ D'abord un clic droit au niveau du nom du domaine ensuite **new** et **organizat
 
 ## Q.1.1.3
 
-![ex1](./images/Image03.png)
+![ex1](./images/image03.png)
 
