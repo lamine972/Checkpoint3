@@ -54,6 +54,15 @@ Clic droit `Group Policy Objects`/ `New`/ `Name Users-Drive-Mount`
 ![ex1](./images/Image10.png)
 
 
+![ex1](./images/Image11.png)
+
+
+les lecteurs sont bien mappés
+
+
+![ex1](./images/Image12.png)
+
+
 
 
 
