@@ -11,6 +11,7 @@ Je propose de l'ajouter au groupe au groupe sudo avce un `usermod -aG usermod la
 ## 2.2.3
 
 ![ex2](./images/ex2_2.png)
+
 Il suffit juste de faire `PubkeyAuthentication yes` et `PasswordAuthentication no` 
 
 
