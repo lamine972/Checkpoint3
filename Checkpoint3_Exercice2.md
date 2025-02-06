@@ -6,5 +6,13 @@ Je propose de l'ajouter au groupe au groupe sudo avce un `usermod -aG usermod la
 
 ## Q.2.2.1
 
-
 ![ex2](./images/ex2_1.png)
+
+## 2.2.2
+
+
+## Q.2.4.1
+Bareos-dir gère la configuration de l'ensemble du système.Bareos-sd gère le stocakge physique des sauvegardes.Bareos-fd est insatllé sur une machine à sauvegarder,il doit lire les fichiers à sauvegarder et les envoyer a storage daemon.
+
+
+
