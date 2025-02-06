@@ -24,6 +24,11 @@ Il suffit juste de faire `PubkeyAuthentication yes` et `PasswordAuthentication n
 ![ex2](./images/ex3_3.png)
 
 
+## Q.2.3.2
+
+
+![ex2](./images/ex2_4.png)
+
 
 ## Q.2.4.1
 Bareos-dir gère la configuration de l'ensemble du système.Bareos-sd gère le stocakge physique des sauvegardes.Bareos-fd est insatllé sur une machine à sauvegarder,il doit lire les fichiers à sauvegarder et les envoyer a storage daemon.
