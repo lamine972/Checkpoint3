@@ -39,3 +39,18 @@ Bareos-dir gère la configuration de l'ensemble du système.Bareos-sd gère le s
 ![ex2](./images/ex2_6.png)
 
 
+## Q.2.5.2
+
+Le port ssh(port 22),le protocole de ping ipv4 et ipv6 sont autorisés.
+
+
+## Q.2.5.3
+ Les connexions non reconnues et non établies par la machine ne sont pas autorisées
+
+ ## Q.2.5.4
+
+
+![ex2](./images/ex2_7.png)
+ 
+
+
