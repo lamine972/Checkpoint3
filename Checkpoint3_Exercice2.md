@@ -21,7 +21,7 @@ Il suffit juste de faire `PubkeyAuthentication yes` et `PasswordAuthentication n
 
 ## Q.2.3.1
 
-![ex2](./images/ex2_3.png)
+![ex2](./images/ex3_3.png)
 
 
 
