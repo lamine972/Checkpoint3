@@ -8,6 +8,11 @@ Je propose de l'ajouter au groupe au groupe sudo avce un `usermod -aG usermod la
 
 ![ex2](./images/ex2_1.png)
 
+##2.2.2
+
+Il faut rajouter la ligne suivante au fichier `AllowUsers lamine`.
+
+
 ## 2.2.3
 
 ![ex2](./images/ex2_2.png)
